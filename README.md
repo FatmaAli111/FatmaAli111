@@ -1,21 +1,28 @@
-<div align="center">
+a href="https://komarev.com/ghpvc/?username=hassaneldash">
+  <img align="right" src="https://komarev.com/ghpvc/?username=hassaneldash&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-<h1 align="center">Hi 👋, I'm Fatma Ali</h1>
-<h3 align="center">FullStack .NET Developer</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
+[![wakatime](https://wakatime.com/badge/user/018d0815-72c4-4cbd-813f-ae04bae75ceb.svg)](https://wakatime.com/@hassaneldash)
 
-<details>
-<summary><strong>Busy coding</strong></summary>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hi!, My name is
+                <b>Hassan ELDash</b>
+        </samp>
+</h3>
+<p align="center"> 
+  <samp>
+    「 I am a passionate Software Architect and Lecturer from <b>Egypt</b> 」
+    <a href="https://www.google.com/search?q=Hassan+ELDash">「 Google Me 」</a> <br/>
+  </samp>
+</p>
 
-<br>
-
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=FatmaAli111&style=for-the-badge&color=orange)
-
-</details>
-
-</div>
-
+<p align="center">
+  
+ <a href="https://linkedin.com/in/hassaneldash" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hassaneldash"/>
+ </a>
 <hr/>
 
 ## 🚀 Tools & Technologies
