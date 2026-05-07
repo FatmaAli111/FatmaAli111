@@ -71,7 +71,7 @@ Minia University
 ### 🛒 Shopping Checkout System
 - Frontend project for a shopping checkout flow with product selection and payment UI.
 - Built using HTML, CSS, and JavaScript.
-- 🔗 Live Demo: https://v0-user-specific-shopping-ckout9cjw-ba9822999-2432s-projects.vercel.app/
+- 🔗 Live Demo: [https://v0-user-specific-shopping-ckout9cjw-ba9822999-2432s-projects.vercel.app/](https://v0-user-specific-shopping.vercel.app/)
 
 ---
 
