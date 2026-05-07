@@ -24,42 +24,36 @@
  </a>
 <hr/>
 
-## 🚀 Tools & Technologies
+# My Skills
 
-![Tools](https://img.shields.io/badge/Tools-I%20use-orange)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=white&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=white&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&labelColor=white&logo=typescript)
 
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap)
 
-### ⚙️ Backend (.NET)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/MVC-5C2D91?style=flat)
-![Web API](https://img.shields.io/badge/Web%20API-5C2D91?style=flat)
-![REST APIs](https://img.shields.io/badge/REST-000000?style=flat)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&labelColor=white&logo=csharp)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&labelColor=white&logo=dotnet)
+![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&labelColor=white)
+![Web%20API](https://img.shields.io/badge/Web_API-5C2D91?style=for-the-badge&labelColor=white)
+![REST%20API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&labelColor=white)
 
-### 🗄️ Data Access
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat)
-![Entity Framework](https://img.shields.io/badge/EF-68217A?style=flat)
-![Dapper](https://img.shields.io/badge/Dapper-2C2C2C?style=flat)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-4B8BBE?style=flat)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&labelColor=white&logo=microsoftsqlserver)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&labelColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&labelColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-2C2C2C?style=for-the-badge&labelColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-4B8BBE?style=for-the-badge&labelColor=white)
 
-### 🏗️ Architecture & Principles
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A0A0A?style=flat)
-![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-1F1F1F?style=flat)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-blue)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-orange)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A0A0A?style=for-the-badge&labelColor=white)
+![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-1F1F1F?style=for-the-badge&labelColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge&labelColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-orange?style=for-the-badge&labelColor=white)
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=white&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=white&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=white&logo=postman)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&labelColor=white&logo=visualstudio)
 ---
 ## 🎓 Education
 
