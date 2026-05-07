@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <h1 align="center">Hi 👋, I'm Fatma Ali</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">FullStack .NET Developer</h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
