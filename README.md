@@ -7,15 +7,17 @@
 
 
 <details>
-<p><strong> <summary>  Busy coding & Training AI Models :   </summary> </strong></p>
+<summary><strong>Busy coding & Training AI Models :</strong></summary>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <be>
+<br>
+
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=FatmaAli111&style=for-the-badge&color=orange)
+
+![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FatmaAli111&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=FatmaAli111&style=flat&color=orange&label=PROFILE+VIEWS)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFatmaAli111&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 
 <br>
