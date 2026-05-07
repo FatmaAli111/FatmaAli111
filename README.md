@@ -7,13 +7,12 @@
 
 
 <details>
-<summary><strong>Busy coding & Training AI Models :</strong></summary>
+<summary><strong>Busy coding:</strong></summary>
 
 <br>
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=FatmaAli111&style=for-the-badge&color=orange)
 
-![Profile Views](https://komarev.com/ghpvc/?username=FatmaAli111&style=flat&color=orange&label=PROFILE+VIEWS)
 
 
 
