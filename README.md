@@ -79,3 +79,37 @@ Minia University
 - Frontend system for managing restaurant interface and ordering flow.
 - Built using modern frontend technologies for UI/UX handling.
 - 🔗 Live Demo: https://resturant-git-production-readiness-fa5675869-6137s-projects.vercel.app/
+---
+
+### 🏫 MVC Project (ITI)
+- Full-stack .NET MVC project developed during ITI training.
+- Implements core web development concepts using ASP.NET MVC and SQL Server.
+- 🔗 https://github.com/FatmaAli111/MVCProject.ITI
+
+---
+
+### 📚 Library Borrowing System
+- System for managing book borrowing and return operations.
+- Built using ASP.NET Core and database integration.
+- 🔗 https://github.com/FatmaAli111/Library-Borrowing-Book
+
+---
+
+### 🛒 E-commerce Graduation Project
+- Full e-commerce system with product management and ordering flow.
+- Developed as graduation project using .NET technologies.
+- 🔗 https://github.com/FatmaAli111/Ecommerce-DEPI-Graduation-Project
+
+---
+
+### 🗄️ SQL Project
+- Database-focused project implementing SQL queries and design concepts.
+- Covers data modeling and relational database operations.
+- 🔗 https://github.com/FatmaAli111/SqlProject
+
+---
+
+### 🏫 School API System (In Progress)
+- Web API system for managing school operations (students, classes, etc.).
+- Built using ASP.NET Core with Clean Architecture principles.
+- 🔗 https://github.com/FatmaAli111/SchoolApiSystemWithCleanArchticture
