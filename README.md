@@ -55,7 +55,17 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ---
+## 🎓 Education
 
+### 🏫 ITI Full-Stack .NET Trainee
+Information Technology Institute (ITI)  
+Full-Stack .NET Development Program
+
+---
+
+### 🎓 Bachelor of Computer Science
+Faculty of Computers & Information (FCI)  
+Minia University
 ## 💡 About Me
 
 ```csharp
