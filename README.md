@@ -3,8 +3,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018d0815-72c4-4cbd-813f-ae04bae75ceb.svg)](https://wakatime.com/@FatmaAli111)
-
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/_BTATA)
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi!, My name is
