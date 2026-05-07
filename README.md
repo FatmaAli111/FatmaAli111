@@ -66,51 +66,16 @@ Full-Stack .NET Development Program
 ### 🎓 Bachelor of Computer Science
 Faculty of Computers & Information (FCI)  
 Minia University
-## 💡 About Me
+## 🚀 Projects
 
-```csharp
-class About : Me
-{
-    const string[] Languages =
-    {
-        "C#",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "SQL"
-    };
+### 🛒 Shopping Checkout System
+- Frontend project for a shopping checkout flow with product selection and payment UI.
+- Built using HTML, CSS, and JavaScript.
+- 🔗 Live Demo: https://v0-user-specific-shopping-ckout9cjw-ba9822999-2432s-projects.vercel.app/
 
-    const string[] Backend =
-    {
-        "ASP.NET Core",
-        "MVC",
-        "Web API",
-        "REST APIs"
-    };
+---
 
-    const string[] DataAccess =
-    {
-        "Entity Framework",
-        "Dapper",
-        "ADO.NET",
-        "LINQ",
-        "SQL Server"
-    };
-
-    const string[] Architecture =
-    {
-        "Clean Architecture",
-        "Onion Architecture",
-        "SOLID Principles",
-        "Design Patterns"
-    };
-
-    const string[] Tools =
-    {
-        "Git",
-        "GitHub",
-        "Visual Studio",
-        "Postman"
-    };
-}
+### 🍽️ Restaurant Management System
+- Frontend system for managing restaurant interface and ordering flow.
+- Built using modern frontend technologies for UI/UX handling.
+- 🔗 Live Demo: https://resturant-git-production-readiness-fa5675869-6137s-projects.vercel.app/
