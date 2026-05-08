@@ -6,13 +6,13 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/_BTATA)
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hi!, My name is
+        <samp>&gt; Hi!, I'm
                 <b>Fatma Ali</b>
         </samp>
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a passionate Software Engineer 」
+    「 Software Engineer | Full‑Stack .NET Developer | Tech Enthusiast 」
   </samp>
 </p>
 
